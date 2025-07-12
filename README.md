@@ -1,4 +1,4 @@
 Description du projet
 Ajout d’une autre info
 Fonctionnalité 1
-Fonctionnalité 2
+Changement dans branche pour test fusion
